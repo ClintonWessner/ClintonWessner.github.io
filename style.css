@@ -1,7 +1,13 @@
-body{
-    background-color:  lightblue;
-    font-family:"copperplate", "papyrus", "fantasy";
+body {
+    background-color: lightblue;
+    font-family: "copperplate", "papyrus", "fantasy";
     text-align: center;
+}
+#csimg  {
+    width: 600px;
+}
 
+#school{
 
 }
+
