@@ -10,5 +10,12 @@ body {
 #school{
 
 }
+#jimg{
+    .img-fluid
+    center;
+}
+.center{
+    text-align: center;
+}
 
 
